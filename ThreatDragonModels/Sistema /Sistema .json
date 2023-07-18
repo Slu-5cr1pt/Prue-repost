@@ -95,6 +95,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "Verificacion"
+              },
               "body": {
                 "stroke": "#333333",
                 "strokeWidth": 1,
@@ -107,7 +110,7 @@
             "id": "4801a77d-9def-4d71-95ff-18acb4270f51",
             "data": {
               "type": "tm.Process",
-              "name": "Proceso",
+              "name": "Verificacion",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
