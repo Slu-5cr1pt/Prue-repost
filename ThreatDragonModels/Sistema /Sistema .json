@@ -126,6 +126,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "Información interna de la empresa"
+              },
               "topLine": {
                 "strokeWidth": 1,
                 "strokeDasharray": null
@@ -141,7 +144,7 @@
             "zIndex": 4,
             "data": {
               "type": "tm.Store",
-              "name": "Dispositivo de almacenamiento",
+              "name": "Información interna de la empresa",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
