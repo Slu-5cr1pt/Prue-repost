@@ -163,6 +163,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "Navegador WEB"
+              },
               "body": {
                 "stroke": "#333333",
                 "strokeWidth": 1,
@@ -175,7 +178,7 @@
             "id": "ad3138d5-dd05-4d22-b33a-def20431b981",
             "data": {
               "type": "tm.Actor",
-              "name": "Actor",
+              "name": "Navegador WEB",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
