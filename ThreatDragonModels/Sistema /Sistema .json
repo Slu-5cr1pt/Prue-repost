@@ -104,7 +104,7 @@
                   "severity": "High",
                   "type": "Information disclosure / Brecha de información",
                   "description": "Se puede intentar usar el ataque de diccionario o fuerza bruta para obtener acceso así mismo también en una sesión ya iniciado robar las cookies y así tener acceso directo  ",
-                  "mitigation": "Introduzca la mitigación o prevención para esta amenaza",
+                  "mitigation": "Usar contraseñas encriptadas con cifrado SHA-256",
                   "modelType": "STRIDE",
                   "new": false,
                   "number": 2,
