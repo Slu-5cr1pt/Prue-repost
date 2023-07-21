@@ -56,7 +56,7 @@
                   "severity": "Medium",
                   "type": "Denial of service / Denegación de servicio",
                   "description": "Pueden con obtener la IP publica del sistema intentar saturarla con una botnet",
-                  "mitigation": "Introduzca la mitigación o prevención para esta amenaza",
+                  "mitigation": "Uso de protección con los servicios del proveedor en la nube | cloudflare",
                   "modelType": "STRIDE",
                   "new": false,
                   "number": 1,
